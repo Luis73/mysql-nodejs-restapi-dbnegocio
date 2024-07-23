@@ -1,0 +1,304 @@
+{ 
+    "clientes":[
+    {
+        "apemat": "dddHUAMANI",
+        "apepat": "vvHUAMANI",
+        "carnet": "",
+        "caution": false,
+        "cedula": "",
+        "celular": "",
+        "clase": "",
+        "codcli": "90900600",
+        "codempresa": "009",
+        "codentidad": "-",
+        "codmercado": "0001",
+        "codven": "0049",
+        "control_id": 104751,
+        "created_at": null,
+        "credito": "NO",
+        "dircli": "MDO CONZAC PTO22",
+        "dis": "LOS OLIVOS",
+        "dni": "11111111",
+        "email": "",
+        "fecfinvig": "99991231",
+        "fecing": "20131024",
+        "fecinivig": "90100101",
+        "fecnac": "",
+        "fecuc": "20170720",
+        "fecup": "90100708",
+        "flagapp": "U",
+        "fmod": "20131024",
+        "id": 0,
+        "ndocumento": "111",
+        "nombre": "FELIX HUAMANI HUAMANI",
+        "nomcli": "FELIX",
+        "obs1": "",
+        "obs2": "FUV:20210422 DOC:01-9010050000 CONTADO",
+        "pasaporte": "",
+        "responsa": "",
+        "ruc": "",
+        "rucle": "11111111",
+        "semaforo": "V",
+        "tele01": "",
+        "tele02": "",
+        "ubicli": "150117",
+        "ubigeocompleto": "150101 callao",
+        "updated_at": null,
+        "zona": "MI",
+        "zonaaux": "aa"
+    },
+    {
+        "apemat": "aaHUAMANI",
+        "apepat": "HUAMANI",
+        "carnet": "",
+        "caution": false,
+        "cedula": "",
+        "celular": "",
+        "clase": "",
+        "codcli": "90900300",
+        "codempresa": "009",
+        "codentidad": "-",
+        "codmercado": "0001",
+        "codven": "0049",
+        "control_id": 104751,
+        "created_at": null,
+        "credito": "NO",
+        "dircli": "MDO CONZAC PTO22",
+        "dis": "LOS OLIVOS",
+        "dni": "11111111",
+        "email": "",
+        "fecfinvig": "99991231",
+        "fecing": "20131024",
+        "fecinivig": "90100101",
+        "fecnac": "",
+        "fecuc": "20170720",
+        "fecup": "90100708",
+        "flagapp": "U",
+        "fmod": "20131024",
+        "id": 0,
+        "ndocumento": "111",
+        "nombre": "FELIX HUAMANI HUAMANI",
+        "nomcli": "FELIX",
+        "obs1": "",
+        "obs2": "FUV:20210422 DOC:01-9010050000 CONTADO",
+        "pasaporte": "",
+        "responsa": "",
+        "ruc": "",
+        "rucle": "11111111",
+        "semaforo": "V",
+        "tele01": "",
+        "tele02": "",
+        "ubicli": "150117",
+        "ubigeocompleto": "150101 callao",
+        "updated_at": null,
+        "zona": "MI",
+        "zonaaux": "aa"
+    },
+    {
+        "apemat": "bbbHUAMANI",
+        "apepat": "vvHUAMANI",
+        "carnet": "",
+        "caution": false,
+        "cedula": "",
+        "celular": "",
+        "clase": "",
+        "codcli": "90900400",
+        "codempresa": "009",
+        "codentidad": "-",
+        "codmercado": "0001",
+        "codven": "0049",
+        "control_id": 104751,
+        "created_at": null,
+        "credito": "NO",
+        "dircli": "MDO CONZAC PTO22",
+        "dis": "LOS OLIVOS",
+        "dni": "11111111",
+        "email": "",
+        "fecfinvig": "99991231",
+        "fecing": "20131024",
+        "fecinivig": "90100101",
+        "fecnac": "",
+        "fecuc": "20170720",
+        "fecup": "90100708",
+        "flagapp": "U",
+        "fmod": "20131024",
+        "id": 0,
+        "ndocumento": "111",
+        "nombre": "FELIX HUAMANI HUAMANI",
+        "nomcli": "FELIX",
+        "obs1": "",
+        "obs2": "FUV:20210422 DOC:01-9010050000 CONTADO",
+        "pasaporte": "",
+        "responsa": "",
+        "ruc": "",
+        "rucle": "11111111",
+        "semaforo": "V",
+        "tele01": "",
+        "tele02": "",
+        "ubicli": "150117",
+        "ubigeocompleto": "150101 callao",
+        "updated_at": null,
+        "zona": "MI",
+        "zonaaux": "aa"
+    },
+    {
+        "apemat": "ccccHUAMANI",
+        "apepat": "vvHUAMANI",
+        "carnet": "",
+        "caution": false,
+        "cedula": "",
+        "celular": "",
+        "clase": "",
+        "codcli": "90900500",
+        "codempresa": "009",
+        "codentidad": "-",
+        "codmercado": "0001",
+        "codven": "0049",
+        "control_id": 104751,
+        "created_at": null,
+        "credito": "NO",
+        "dircli": "MDO CONZAC PTO22",
+        "dis": "LOS OLIVOS",
+        "dni": "11111111",
+        "email": "",
+        "fecfinvig": "99991231",
+        "fecing": "20131024",
+        "fecinivig": "90100101",
+        "fecnac": "",
+        "fecuc": "20170720",
+        "fecup": "90100708",
+        "flagapp": "U",
+        "fmod": "20131024",
+        "id": 0,
+        "ndocumento": "111",
+        "nombre": "FELIX HUAMANI HUAMANI",
+        "nomcli": "FELIX",
+        "obs1": "",
+        "obs2": "FUV:20210422 DOC:01-9010050000 CONTADO",
+        "pasaporte": "",
+        "responsa": "",
+        "ruc": "",
+        "rucle": "11111111",
+        "semaforo": "V",
+        "tele01": "",
+        "tele02": "",
+        "ubicli": "150117",
+        "ubigeocompleto": "150101 callao",
+        "updated_at": null,
+        "zona": "MI",
+        "zonaaux": "aa"
+    },
+    {
+        "apemat": "eeeeeHUAMANI",
+        "apepat": "vvHUAMANI",
+        "carnet": "",
+        "caution": false,
+        "cedula": "",
+        "celular": "",
+        "clase": "",
+        "codcli": "90900600",
+        "codempresa": "009",
+        "codentidad": "-",
+        "codmercado": "0001",
+        "codven": "0049",
+        "control_id": 104751,
+        "created_at": null,
+        "credito": "NO",
+        "dircli": "MDO CONZAC PTO22",
+        "dis": "LOS OLIVOS",
+        "dni": "11111111",
+        "email": "",
+        "fecfinvig": "99991231",
+        "fecing": "20131024",
+        "fecinivig": "90100101",
+        "fecnac": "",
+        "fecuc": "20170720",
+        "fecup": "90100708",
+        "flagapp": "U",
+        "fmod": "20131024",
+        "id": 0,
+        "ndocumento": "111",
+        "nombre": "FELIX HUAMANI HUAMANI",
+        "nomcli": "FELIX",
+        "obs1": "",
+        "obs2": "FUV:20210422 DOC:01-9010050000 CONTADO",
+        "pasaporte": "",
+        "responsa": "",
+        "ruc": "",
+        "rucle": "11111111",
+        "semaforo": "V",
+        "tele01": "",
+        "tele02": "",
+        "ubicli": "150117",
+        "ubigeocompleto": "150101 callao",
+        "updated_at": null,
+        "zona": "MI",
+        "zonaaux": "aa"
+    }
+]
+
+}
+
+
+
+
+
+
+
+
+
+
+app.post('/customers',  (req, res ) => {
+
+    let userData1= new Array;
+
+    /*
+    const fs = require('fs');
+
+    let data = fs.readFileSync( './data/customers.json');
+    let clientes= JSON.parse(data);
+    console.log ( clientes );
+    console.log ( typeof( clientes ) );
+
+    UserModel.insertCustomer( data, (err, data) => {
+
+     if (data && data.insertId) {
+       res.status(200).json({
+         success: true,
+         msg: "Inserted a new customers",
+         data: data
+       });
+       // res.redirect('/users/' + data.insertId);
+     } else {
+       res.status(500).json({
+         success: false,
+         msg: "Error"
+       });
+     }
+   });
+
+*/
+    
+    for(var i =0 ; i < Object.keys(req.body).length  ; i++){
+         console.log( i );
+         userData1[i] = req.body[i];
+         console.log( userData1[i].apemat );
+    
+         UserModel.insertCustomer( userData1[i] , (err, data, next ) => {
+
+           if (data && data.insertId) {
+             res.status(200).json({
+               success: true,
+               msg: "Inserted a new customers",
+               data: data
+             });
+             // res.redirect('/users/' + data.insertId);
+           } else {
+             res.status(500).json({
+               success: false,
+               msg: "Error"
+             });
+           }
+         });
+     } 
+ });
